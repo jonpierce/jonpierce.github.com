@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/jonpierce
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jonpierce.com
+  * I am jonpierce (https://keybase.io/jonpierce) on keybase.
+  * I have a public key with fingerprint 172B F436 A841 B09D 56A4  44A2 2095 6727 4E2D 7FE9
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "172bf436a841b09d56a444a2209567274e2d7fe9",
+            "host": "keybase.io",
+            "key_id": "209567274E2D7FE9",
+            "uid": "5d28ffdfa5119cbabd5daaabbe99c900",
+            "username": "jonpierce"
+        },
+        "service": {
+            "hostname": "jonpierce.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1395873504,
+    "expire_in": 157680000,
+    "prev": "8121e7fde892ea67d348b02cd71a111dd637157e4658fbbfbad279eadc66ab69",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+
+owGbwMvMwMSoMDVd3U+3/iXj6QNfkhiCjcMeVysl5adUKllVK2Wngqm0zLz01KKC
+osy8EiUrJUNzo6Q0E2OzRAsTwyQDyxRTs0QTE5NEIyMDS1MzcyNzk1SjFPO0VEsl
+HaWM/GKQDqAxSYnFqXqZ+UAxICc+MwUoClfvauRi7uYKUl8KljBNMbJIS0tJSzQ1
+NLRMTkpMSjFNSUxMTEpKtbRMtjQwACksTi3KS8xNBarOys8ryEwtSk5VqtVRAgqX
+ZQKZQEeD7EZXopecnwvUXVCUX5KfnJ8DlMooKSkotgJpLaksAKktT02Kh5oSn5SZ
+lwL0OlBHWWpRcWZ+npKVIVBlckkmyFhDY0tTC3NjUwMTHaXUioLMotT4TJAKU3Mz
+CwMgANmTWgY00sLQyDDVPC0l1cLSKDXRzDzF2MQiycAoOcXcMNHQ0DAlxczYHKgr
+1cTM1CItKSktKTHFyNwyNTEl2cwsMckMFDDFqYV5+UpWZkBnJqYDjSzOTM9LLCkt
+Anq6k0mGhYGRiYGNlQkUeQxcnAKwKA14zv8/auFWO7FPkemNZu/YL02+2jvFJ8SH
+4egXsffsF5b6lhgd8tQ9X6B8xEIp6S2rR6Lp8h3z577fxcOo3Ka3STBt0rOWV7+i
+dlek3dqwN8iqq+HmzBvtMUtEdPk+NlRv9V9waQGLCvMeyShDLYOvix22uUW+Vzw6
+27w20NvltGBV9emkdQ5z1t9WOHW9TezOv63rtJ9Gr1F7edlq4aEHc88/afwlEcSh
++GvLs/N3Xnxv7hON+vA5uTbg+H2eidnmBqbds42qouUrTov3C8f9mWWqFffA7Hv/
+vpZjNTN9GHn9nxvcnfTY/Oz16Miyirw1dzb6dkdxKavO6u1MZxPe3ebzap2uraLu
+h3zpAPFzNvPaktfuNH3LUbGbKUzqoSVnKvdXYYm+zl35IkGeopx/byq696+PyP5v
+Yr0+OUX40JM73Zwr7Kftb/CqqhYOtmLdOmvnlA+ZKzojtk3MObya40Socn74hE6B
+IO8nbvqy6nEb87IShH4J1OXvsfqs2RLdEHxnobC/2d31C9jeem3QbP+299TC6a+P
+NLxM8GP99kW4fuUMra8b+hYGLU+8l7r8z2bp3a+X1jY/bqpbVe11iddzb/HEmcvb
+skv2tC1gXLlKNGD2a42bPv9Ur548YLGxonhGWIxenJFFX+Zcw2Chws8Wvde3ec1+
+uas0R/LZFjfOdzLPlloevfpBIVX0mOq63enMtRe2xhTWSGzbHQIA
+=I5ML
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jonpierce
+
+==================================================================
+
